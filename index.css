@@ -7,6 +7,21 @@ body{
     margin: auto;
 
 }
+
+.nav div{
+  height: 2px; 
+  background-color:white; 
+  margin: 5px 0;
+  border-radius: 30px;
+
+}
+.nav{
+   width: 40px;
+   display: block; 
+   margin:1em 0 0 3em;
+   position: absolute;
+   
+}
 #landing {
     background-image: url(./images/landing.jpg);
     width: 100%;
@@ -19,4 +34,10 @@ body{
 
 #menu{
     text-align: center;
+}
+
+#header{
+    text-align: center;
+    color: white;
+    font-size: 20px;
 }
