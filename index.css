@@ -9,4 +9,14 @@ body{
 }
 #landing {
     background-image: url(./images/landing.jpg);
+    width: 100%;
+    height: 300px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-sizing: border-box;
+
+}
+
+#menu{
+    text-align: center;
 }
