@@ -97,3 +97,15 @@ body{
         justify-content: center;
         width: 25%;
     }
+    #dinner{
+        background-image: url(./images/dinner.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 100px;
+        display: flex;
+        width: 100px;
+        align-items: center;
+        justify-content: center;
+        width: 25%;
+    
+    }
