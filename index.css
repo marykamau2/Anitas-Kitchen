@@ -65,3 +65,12 @@ body{
     background-color: white;
     height: 50px;
 }
+.ptime{
+    background-color: #ff5c33;
+    display: flex;
+    align-items: center;
+    color: white;
+    justify-content: center;
+    height: 50px;
+    
+    }
