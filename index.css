@@ -7,3 +7,6 @@ body{
     margin: auto;
 
 }
+#landing {
+    background-image: url(./images/landing.jpg);
+}
