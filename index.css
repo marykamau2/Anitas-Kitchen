@@ -23,9 +23,6 @@ body{
    position: absolute;  
    
 }
-.nav:hover{
-    color: blue;
-}
 
 #landing {
     background-image: url(./images/landing.jpg);
@@ -39,7 +36,7 @@ body{
 
 }
 
-#menu{
+#About{
     text-align: center;
 }
 
