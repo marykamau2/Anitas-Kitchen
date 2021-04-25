@@ -214,6 +214,7 @@ body{
     display: inline ;
     width: 100%;
     
+    
 }
 #foodsBg >div {
     width: 90%;
@@ -243,4 +244,39 @@ body{
     }
    
 
-
+    #customerSection  > ul li{
+        list-style: none;
+        display: inline-block;
+        flex:1;
+        text-align: left;
+        
+        }
+        .customerAbout{
+            display: flex;
+            justify-content: baseline;
+            box-shadow: 0 0 3px gray;
+            width: 90%;
+            margin: 10px auto;
+            
+            
+        }
+        .about{
+            
+            text-align:center;
+            width:50%;
+            border:1px solid gray;
+        }
+        .customerAbout  h4{
+            color:tomato;
+            text-align: center;
+            
+            
+        }
+        .customerAbout  h2{
+            color:black;
+            text-align: center;
+        }
+        #customerSection{
+            border: 1px solid gray;
+            width:50%;
+        }
