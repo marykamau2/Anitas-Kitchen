@@ -151,7 +151,18 @@ body{
         display: flex;
         align-items: center;
         justify-content: center;
+        
 
     }
+
+    #delicious>p{
+        width:30%;
+        margin:0px auto;
+        text-align: left;
+        width: 50%;
+
+    }
+
+
 
 
