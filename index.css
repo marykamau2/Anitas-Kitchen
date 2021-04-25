@@ -191,3 +191,19 @@ body{
         
     }
 
+
+    #foodsBg{
+        background-image: url(/images/foodsBg.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 300px;
+        width: 100%;
+        color: white;
+        box-sizing: border;
+        display: flex;
+        height: 100%;
+        margin-top: 10px;
+        align-items: center;
+        flex-direction: column;
+    }
+
