@@ -280,3 +280,34 @@ body{
             border: 1px solid gray;
             width:50%;
         }
+        .subscribe{
+            background-image: url(/images/subscribe.jpg);
+            background-size: cover;
+            background-repeat: no-repeat;
+            height: 200px;
+            width: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            
+        }
+        .subscribe >div >p:first-child{
+            text-align: center;
+            color: white;
+            font-size: 20px;
+            padding:5px;
+        }
+        #email{
+            opacity: 0.5;
+            color: white;
+            height: 30px;
+        }
+        #button{
+            background-color: tomato;
+            height: 40px;
+            width: 120px;
+        }
+        .mailSub{
+            display: flex;
+            justify-content: space-around;
+        }
