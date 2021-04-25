@@ -114,3 +114,25 @@ body{
         width: 30%;
     
     }
+    #foods{
+        display: flex;
+        justify-content: space-between;
+        text-align: center;
+        box-sizing: border-box;
+        margin: 50px auto;
+        height: px;
+        width: 70%;
+
+    }
+
+
+    #fastfoods ul{
+        border: 1px solid grey;
+        box-sizing: border-box;
+        padding: 10px;
+       box-shadow:0 0 5px #000;
+       align-items: center;
+
+
+    }
+
