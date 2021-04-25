@@ -225,15 +225,23 @@ body{
     }
     #submenu{
         display: flex;
-        list-style: none;
+        
         width:100%;
         justify-content: space-around;
-        text-decoration: red;
+        text-align: center;
+    }
+
+    .fastFoodli{
+        display: flex;
+        list-style-type: none ;
+        justify-content: space-around;
     }
     nav ul{
     background-color:gray;
     margin-top: 0px;
-    height: 35px;
+    height: 40px;
+    text-align: center;
+    
     
     }
     nav ul li{
