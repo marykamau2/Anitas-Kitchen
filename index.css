@@ -207,3 +207,40 @@ body{
         flex-direction: column;
     }
 
+    
+#foodsBg > div ul> li{
+    color: black;
+    line-height: 50px;
+    display: inline ;
+    width: 100%;
+    
+}
+#foodsBg >div {
+    width: 90%;
+    background-color: white;
+    margin: 5%;
+    height:90%;
+    margin-bottom: 5%;
+    }
+    #submenu{
+        display: flex;
+        list-style: none;
+        width:100%;
+        justify-content: space-around;
+        text-decoration: red;
+    }
+    nav ul{
+    background-color:gray;
+    margin-top: 0px;
+    height: 35px;
+    
+    }
+    nav ul li{
+        padding:5px;
+    }
+    #p1, #p2, #p3{
+       width:30%
+    }
+   
+
+
